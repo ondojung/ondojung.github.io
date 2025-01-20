@@ -74,7 +74,7 @@ export default function Room(){
         )
 }
 ```
-![image.jpg1](/img/resource/2024-01-20-threejs-plant-game-1/Room1.jpg) |![image.jpg2](/img/resource/2024-01-20-threejs-plant-game-1/Room2.jpg) |![image.jpg2](/img/resource/2024-01-20-threejs-plant-game-1/Room3.jpg)
+![image.jpg1](https://github.com/user-attachments/assets/20f5c5e1-943a-400a-b769-c54b3f3cca6d) |![image.jpg2](https://github.com/user-attachments/assets/0fe582f8-171b-43e3-a1f0-8b5e8d8d272b) |![image.jpg3](https://github.com/user-attachments/assets/664bcf72-22fe-4c18-9414-5304e3c23837)
 --- | --- | --- |
 
 ## 흙&화분컴포넌트
@@ -155,7 +155,7 @@ export default function PotAndSoil() {
 ```
 useGLTF를 활용하면 3D모델을 불러올 수 있다. 나는 흙이미지와 화분 이미지를 따로 만든 뒤, 합체를 했다.
 그 후 컴포넌트를 아까만든 방 바닥에 배치를 했다.
-![image.jpg1](/img/resource/2024-01-20-threejs-plant-game-1/potandsoil1.jpg) |![image.jpg2](/img/resource/2024-01-20-threejs-plant-game-1/potandsoil2.jpg)
+![image.jpg1](https://github.com/user-attachments/assets/3dd9dda9-23d2-43b6-85a1-e1f5e28b250d) |![image.jpg2](https://github.com/user-attachments/assets/bfbf0fe7-739a-4799-a431-3244778f4d44)
 --- | --- |
 
 다음편에서는 Room 컴포넌트에 만든 벽에 불린연산으로 창문을 뚫고 밖에 하늘같은 맵을 만들고 날씨나 시간에 따라 시시각각 변하는 기능을 구현해볼 생각이다.
